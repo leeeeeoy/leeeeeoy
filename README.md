@@ -3,7 +3,7 @@
 I'm Flutter developer in Seoul, Korea🇰🇷
 
 - 🔭 I’m currently working on the Dozn🔥
-- ☕ I’m learning Go 💪
+- ☕ I’m learning Go 💪
 - 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev).
 
 ### 📮 Contact 
